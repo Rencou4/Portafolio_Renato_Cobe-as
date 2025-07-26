@@ -1,3 +1,3 @@
-# 💼Portafolio de proyectos, s Urtecho 
-Hola, soy Renato Cobeñas y este es mi portafolio de proyectos trabajdos con herramientas para el analisis de datos 😁 
+# 💼Portafolio de proyectos. 
+Hola, soy Renato Cobeñas y estos son algunos de mis proyectos realizadps con herramientas para el analisis de datos 😁 
 
