@@ -13,7 +13,7 @@ Este portafolio incluye visualizaciones interactivas, análisis exploratorios, m
 ### 1. Análisis de Ventas con Power BI
 Dashboard interactivo con análisis por categoría de producto, región y comportamiento de clientes frecuentes.
 
-→ [Ver carpeta del proyecto](./Proyecto1_AnalisisVentas)
+→ [Ver carpeta del proyecto](./Proyecto1_AnalisisVentas) 
 
 ---
 
