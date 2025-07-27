@@ -1,56 +1,68 @@
 # 🚚 Automatización y Análisis Logístico
 
-Este proyecto integral combina **Power BI** para el análisis y **Python** para la automatización, monitoreando las solicitudes de montacargas en operaciones de almacén/logística.
+Este proyecto integra **Power BI** para el análisis y **Python** para la automatización, con el fin de **monitorear y optimizar las solicitudes de montacargas** en operaciones de almacén/logística.
 
-**Aclaración Importante:** Desarrollado con **datos reales** operativos. Por motivos de confidencialidad, las capturas de pantalla del dashboard han sido **censuradas** para su presentación pública. El objetivo es mostrar la metodología y las capacidades técnicas.
-
----
-
-## 🔍 Contexto y Propósito
-
-El objetivo fue optimizar la gestión y el seguimiento de solicitudes de montacargas. Permite a la gerencia monitorear la eficiencia, el volumen de solicitudes y paletas trasladadas, así como evaluar el rendimiento del personal, todo a través de un flujo de información automatizado y en tiempo casi real.
+**Nota:** Desarrollado con datos operativos **reales**, las capturas de pantalla están **censuradas** por confidencialidad. El foco es demostrar la metodología y tus habilidades técnicas.
 
 ---
 
-## 🛠️ Herramientas y Tecnologías
+## 🔍 Propósito y Solución
 
-* **Power BI Desktop:** Modelado de datos, visualizaciones interactivas y diseño del dashboard.
-* **DAX:** Creación de KPIs avanzados y medidas complejas.
-* **Python:** Desarrollo del script de automatización (`Selenium` para extracción web, `Plyer` para notificaciones).
-* **Microsoft Power Apps & Lists (SharePoint):** Origen de los datos de solicitud.
-* **Power BI Service / Microsoft Fabric:** Publicación y actualización automática del dashboard.
-* **Programador de Tareas (Windows Task Scheduler):** Para la orquestación automática del script Python.
+El objetivo fue simplificar la gestión de montacargas. La solución permite monitorear eficiencias, volumen de solicitudes y rendimiento del personal, ofreciendo información casi en tiempo real para decisiones operativas ágiles.
+
+---
+
+## 🛠️ Tecnologías Clave
+
+* **Power BI Desktop:** Modelado de datos, visualización y diseño del dashboard.
+* **DAX:** Creación de KPIs avanzados.
+* **Python:** Script de automatización (con `Selenium` para extracción web).
+* **Microsoft Power Apps & Lists (SharePoint):** Origen de los datos.
+* **Power BI Service / Microsoft Fabric:** Publicación y actualización automática.
+* **Programador de Tareas (Windows):** Orquestación del script Python.
 
 ---
 
 ## 🚀 Flujo de Datos Automatizado
 
-Los datos provienen de registros operativos reales y siguen un flujo completamente automatizado:
-1.  Las solicitudes se generan en **Power Apps** y se almacenan en una **Microsoft List (SharePoint)**.
-2.  Un script de **Python** (`Selenium`) automatiza la descarga periódica (cada 29 minutos) del archivo CSV con estos datos.
-3.  El dashboard de **Power BI** se alimenta de esta fuente y se actualiza automáticamente cada 30 minutos en **Power BI Service**, garantizando información siempre al día.
+El sistema opera un flujo continuo:
+1.  Solicitudes generadas en **Power Apps** y almacenadas en **SharePoint Lists**.
+2.  Un script de **Python** descarga automáticamente los datos cada 29 minutos.
+3.  El dashboard de **Power BI** se actualiza automáticamente cada 30 minutos en **Power BI Service**, asegurando datos frescos.
 
-![Fragmento del Script Python de Automatización](./script_automatizacion_montacargas.jpg)
-
----
-
-## 📊 Vistas Clave del Dashboard
-
-Aquí se presenta la vista principal del dashboard interactivo:
-
-### Dashboard Principal de Solicitudes de Montacargas
-
-Ofrece una visión general de solicitudes, paletas trasladadas, estatus de prioridad, rendimiento por usuario y tendencias temporales.
-
-![Dashboard de Solicitudes de Montacargas (Datos Censurados)](./dashboard_montacargas_general.png)
+![Fragmento del Script Python de Automatización](./Descarga_automatica warehouse.jpg)
 
 ---
 
-## 💡 Impacto y Valor Aportado
+## 📊 Vistas Clave
 
-* **Eficiencia Operativa:** Identificación de cuellos de botella y optimización en la asignación de recursos de montacargas.
-* **Decisiones en Tiempo Real:** Acceso a información actualizada para una gestión más ágil y efectiva.
-* **Automatización Robusta:** Reducción drástica del trabajo manual y mejora en la frescura de los datos.
+El dashboard proporciona insights interactivos:
+
+### Dashboard Principal
+
+Visión general de solicitudes, paletas trasladadas, estatus y rendimiento por usuario.
+
+![Dashboard de Solicitudes de Montacargas (Datos Censurados)](./Fabric_BI_Solicitud_montacargas.png)
+
+### Tooltip: Detalles por Usuario
+
+Muestra información detallada de solicitudes, completadas y estatus al interactuar con datos de usuario.
+
+![Tooltip de Solicitudes por Usuario](./Tool_tip_1.jpg)
+
+### Tooltip: Detalles por Motivo
+
+Desglosa los motivos y la frecuencia de las solicitudes al interactuar con el gráfico correspondiente.
+
+![Tooltip del Banco de Motivos](./Tool_tip_2.jpg)
+
+---
+
+## 💡 Impacto y Valor
+
+* **Optimización Operativa:** Identifica cuellos de botella y mejora la asignación de recursos.
+* **Decisiones Ágiles:** Acceso a información actualizada para una gestión más efectiva.
+* **Reducción de Trabajo Manual:** La automatización robusta elimina tareas repetitivas y asegura la frescura de los datos.
 
 ---
 
