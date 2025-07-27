@@ -48,13 +48,13 @@ Visión general de solicitudes, paletas trasladadas, estatus y rendimiento por u
 
 Muestra información detallada de solicitudes, completadas y estatus al interactuar con datos de usuario.
 
-![Tooltip de Solicitudes por Usuario](./Tool_tip_1.jpg)
+![Tooltip de Solicitudes por Usuario](./Tool_tip_1.png)
 
 ### Tooltip: Detalles por Motivo
 
 Desglosa los motivos y la frecuencia de las solicitudes al interactuar con el gráfico correspondiente.
 
-![Tooltip del Banco de Motivos](./Tool_tip_2.jpg)
+![Tooltip del Banco de Motivos](./Tool_tip_2.png)
 
 ---
 
