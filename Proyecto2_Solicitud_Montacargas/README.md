@@ -30,7 +30,7 @@ El sistema opera un flujo continuo:
 2.  Un script de **Python** descarga automáticamente los datos cada 29 minutos.
 3.  El dashboard de **Power BI** se actualiza automáticamente cada 30 minutos en **Power BI Service**, asegurando datos frescos.
 
-![Fragmento del Script Python de Automatización](./Descarga_automatica warehouse.jpg)
+![Fragmento del Script Python de Automatización](./script_automatizacion_montacargas.jpg)
 
 ---
 
@@ -42,7 +42,7 @@ El dashboard proporciona insights interactivos:
 
 Visión general de solicitudes, paletas trasladadas, estatus y rendimiento por usuario.
 
-![Dashboard de Solicitudes de Montacargas (Datos Censurados)](./Fabric_BI_Solicitud_montacargas.png)
+![Dashboard de Solicitudes de Montacargas (Datos Censurados)](./dashboard_montacargas_general.png)
 
 ### Tooltip: Detalles por Usuario
 
