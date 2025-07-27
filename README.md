@@ -10,10 +10,15 @@ Este portafolio incluye visualizaciones interactivas, análisis exploratorios, m
 
 ## 📊 Proyectos
 
-### 1. Análisis de Ventas con Power BI
-Dashboard interactivo con análisis por categoría de producto, región y comportamiento de clientes frecuentes.
+### 1. Dashboard de Análisis de Ventas y Logística para Consumo Masivo
+Dashboard interactivo y visualmente atractivo creado en Power BI para el análisis de ventas, entregas y devoluciones en el sector de productos cárnicos.
 
-→ [Ver carpeta del proyecto](./Proyecto1_AnalisisVentas) 
+→ [Ver carpeta del proyecto](./Proyecto1_AnalisisVentas)
+
+### 2. Análisis y Automatización de Solicitudes de Montacargas
+Solución integral que combina Power BI para el análisis operativo y Python para la automatización de la extracción de datos, optimizando la gestión de montacargas en almacenes.
+
+→ [Ver carpeta del proyecto](./Proyecto2_Solicitud_Montacargas)
 
 ---
 
@@ -21,4 +26,3 @@ Dashboard interactivo con análisis por categoría de producto, región y compor
 - ✉️ **Email:** rencou4@gmail.com
 - 🔗 [LinkedIn](https://linkedin.com/in/renato-cobeñas)
 - 💻 [GitHub](https://github.com/Rencou4)
-
