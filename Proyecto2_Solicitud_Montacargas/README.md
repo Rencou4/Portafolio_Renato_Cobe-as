@@ -52,9 +52,6 @@ Esta vista proporciona una visión general de las solicitudes realizadas, paleta
 
 ![Dashboard de Solicitudes de Montacargas (Datos Censurados)](./dashboard_montacargas_general.png)
 
-[Opcional: Si tienes otra captura relevante del dashboard censurado, agrégala aquí]
-[Opcional: Si tienes el dashboard publicado online en Power BI Service, puedes agregar:]
-🔗 [**Ver Dashboard Interactivo Online (Power BI Service)**](https://app.powerbi.com/view?r=xxxxxxxxxxxxxxxxxx)
 
 ---
 
