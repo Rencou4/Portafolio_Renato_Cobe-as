@@ -2,8 +2,7 @@
 
 Este proyecto es una **aplicación de escritorio desarrollada en Python** que automatiza el **monitoreo y alerta proactiva de fechas de corte de insumos**, crucial para una gestión eficiente de inventarios.
 
-**Aclaración Importante:** Desarrollado para un contexto operativo real, este sistema muestra la aplicación de mis habilidades en automatización. Las capturas de pantalla han sido **adaptadas y censuradas** para proteger la confidencialidad de la información.
-
+**Aclaración Importante:** Desarrollado para un contexto operativo real, este sistema muestra la aplicación de mis habilidades en automatización. 
 ---
 
 ## 🔍 Contexto y Propósito
