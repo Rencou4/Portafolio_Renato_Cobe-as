@@ -39,6 +39,14 @@ Dashboard para visualizar y analizar métricas clave de visitas de pacientes y s
 
 ---
 
+### 5. Análisis de Rendimiento de Ventas
+**Power BI**
+Dashboard interactivo para evaluar el rendimiento de ventas, analizar objetivos vs. reales y detectar tendencias.
+
+→ [Ver carpeta del proyecto](./Proyecto5_RendimientoVentas)
+
+---
+
 ## 📫 Contacto
 
 - ✉️ **Email:** rencou4@gmail.com  
