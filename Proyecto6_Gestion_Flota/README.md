@@ -8,13 +8,31 @@ Este proyecto se enfoca en el análisis de las operaciones de una empresa de tra
 * **Herramienta:** Python (librería `pandas`)
 * **Descripción:** Se utilizó Python para generar un dataset voluminoso y realista de más de 1000 filas, simulando las transacciones de viajes y la información de los conductores. Esto demuestra la capacidad de estructurar datos desde cero para un análisis robusto.
 
+    <br>
+
+    <img src="./Dato_python.png" alt="Generación de datos con Python" width="70%">
+
+    <br>
+
 ### 2. Limpieza y Modelado de Datos
 * **Herramienta:** SQL (Microsoft SQL Server)
 * **Descripción:** Los datos fueron importados a SQL Server para su limpieza y homologación. Se realizó un `INNER JOIN` entre la tabla de `viajes` y la de `conductores` para combinar la información transaccional con los datos descriptivos, preparando el dataset para el análisis.
 
+    <br>
+
+    <img src="./Query_sql.png" alt="Query SQL para unir datos" width="70%">
+
+    <br>
+
 ### 3. Análisis y Visualización
 * **Herramienta:** Power BI
 * **Descripción:** Se desarrolló un dashboard interactivo enfocado en los KPIs de producción clave para DIRECTO, facilitando una visión clara y diaria del rendimiento de la flota.
+
+    <br>
+
+    <img src="./Power_BI_TAXI.png" alt="Dashboard de Gestión de Flota de DIRECTO" width="70%">
+
+    <br>
 
 ---
 
@@ -25,8 +43,6 @@ El dashboard permite una revisión proactiva de los siguientes indicadores, apoy
 * **Viajes por Conductor y por Estatus:** Permite identificar la productividad individual y monitorear la distribución de viajes completados, cancelados y "no-shows".
 * **Ganancias Totales y Promedio por Hora:** Ofrece una visión clara de la rentabilidad de la operación y el valor generado por cada hora de servicio.
 * **Productividad de la Flota:** A través de gráficos de tendencias, se puede observar el rendimiento de la flota a lo largo del tiempo.
-
-![Dashboard de Gestión de Flota de DIRECTO](./Power_BI_TAXI.png)
 
 ---
 
@@ -41,5 +57,7 @@ El dashboard permite una revisión proactiva de los siguientes indicadores, apoy
 ## 🧑‍💼 Autor
 
 **Renato Cobeñas** 📧 rencou4@gmail.com
-[LinkedIn](https://www.linkedin.com/in/renato-cobeñas)
-[GitHub](https://github.com/Rencou4)
+-   🔗 [LinkedIn](https://linkedin.com/in/renato-cobeñas)
+-   💻 [GitHub](https://github.com/Rencou4)
+
+---
