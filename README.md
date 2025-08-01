@@ -10,22 +10,22 @@ Este portafolio incluye visualizaciones interactivas, análisis exploratorios, a
 
 ## 📊 Proyectos
 
-### 1. Dashboard de Ventas y Logística  
-**Power BI** Dashboard interactivo para analizar ventas, entregas y devoluciones en el sector de consumo masivo.  
+### 1. Dashboard de Ventas y Logística 
+**Power BI** Dashboard interactivo para analizar ventas, entregas y devoluciones en el sector de consumo masivo. 
 
 → [Ver carpeta del proyecto](./Proyecto1_AnalisisVentas)
 
 ---
 
-### 2. Automatización y Análisis Logístico  
-**Python + Power BI** Automatización del monitoreo de solicitudes de montacargas con visualizaciones de seguimiento.  
+### 2. Automatización y Análisis Logístico 
+**Python + Power BI** Automatización del monitoreo de solicitudes de montacargas con visualizaciones de seguimiento. 
 
 → [Ver carpeta del proyecto](./Proyecto2_Solicitud_Montacargas)
 
 ---
 
-### 3. Sistema de Alerta de Insumos  
-**Python** Script en Python para el envío de alertas automáticas sobre fechas de corte de insumos.  
+### 3. Sistema de Alerta de Insumos 
+**Python** Script en Python para el envío de alertas automáticas sobre fechas de corte de insumos. 
 
 → [Ver carpeta del proyecto](./Proyecto3_Alerta_Insumos_Python)
 
@@ -47,8 +47,16 @@ Dashboard interactivo para evaluar el rendimiento de ventas, analizar objetivos 
 
 ---
 
+### 6. Gestión de Flota: Viajes, Ingresos y Productividad
+**Python + SQL + Power BI**
+Análisis de KPIs de producción (viajes, ingresos, productividad de conductores) para una empresa de taxis, demostrando un ciclo de análisis de datos completo.
+
+→ [Ver carpeta del proyecto](./Proyecto6_Gestion_Flota)
+
+---
+
 ## 📫 Contacto
 
-- ✉️ **Email:** rencou4@gmail.com  
-- 🔗 [LinkedIn](https://linkedin.com/in/renato-cobeñas)  
+- ✉️ **Email:** rencou4@gmail.com 
+- 🔗 [LinkedIn](https://linkedin.com/in/renato-cobeñas) 
 - 💻 [GitHub](https://github.com/Rencou4)
